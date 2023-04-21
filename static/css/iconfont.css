@@ -1,0 +1,29 @@
+@font-face {font-family: "icon_font";
+  src: url('iconfont.eot?t=1582948618574'); /* IE9 */
+  src: url('iconfont.eot?t=1582948618574#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAO4AAsAAAAACBAAAANqAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqDRIMYATYCJAMQCwoABCAFhHkHQxsRBxEVnNHIfhzkZpOr8Z/iopN2Ev0cPM/n9Z6b9zJJRh9SAaSUVhCW7er/dtWlMaixhmdzrgc2KkKN5OyTR7tSunF6aZ4C4H+OGa9szwfy1wCQVRaJA24eSETYNeFADvhUbzkcexUeXfchgJdcaiFu554DsdGQZQLIzGlTxmGnlOiaTMFG8JTs1cgOTGxjo3EL2O6/Xr7SQGwwMBVkbd/JnSbS7gMfp6m1sbUjXTWh8fSAeAgUUAvQIFNLjeNRYbAWCq8er2kC2BRnwIehlI/TYjFg70VogwmM3v888UDS/QA0wiEFH7CpMOBDChUKPk5j38AEDYANiKmsBq5BsNkQaQTT/1k+MzXVsQMTIh8GRz8OCb8fFHo3OhTKPhoeFI3mHYsMjUQGR6NDwknfidDgTffKdPejD/n8ByvsKZOcCQOuN7iy4f7UQ5E2bc+HM45mh0IDI4MvRDKP5bXfPKjvjcGhUL09KQfDrccNGbKXKvumwftEPn9zyoS9a5MX7tl0el3akv2bYyWXg0na7GH2dMdcDlwPxGvdU/dAOdfnVvu/vGnbxpZVBygN5G3ahrlnXBk6TDqKi+0uLsalbt7Qke7fcuvzTujDZI81Gb+qRVvyJ0CPjrKnK+e8NbczW7RYX9W7+62TDYafqqlJdm9/jfin8Glvul2Pwran/TJ0yIiRWT7pOGxYR/Hv3BDpTgbXSzkbcnMPZBRmbPRCBzOYC3lIvTI+QqyWaqdqAairxqv/+Tu8X1930pi4Vt9snwbgyVrD6ztjtTTtmT+FpbP+HqtlgzY4RKW1xrWZ5lOa7pgAGIAXL/DPopDIizHMKRDrBUdiYTCwyAWFQwlCY+qAiY+m4MGhA3iposdhH0ksRiHaASrZiEBI5CwYBLkMikQeIjTmPZik8gM8JEoAvAyWvDN9lMoib0cAoxZ0YP7QWpo8U8ghEFRC9g3r96A5zYVVL+TY0gR5kuUjV5yQx9kQP3Uh4sEzjXDhH8NhIAhMHVpJGpFQpqkv+6HE0jg7cGTUgg7MH1pLk3etcshJK+l1N6zfg+a6MlD8Qo6tOBrkSdYGcRVO7Uqu6S3xUxciHjzTCBdRjwMNEoTyWR1aSZoe/lCm0Mq3FSYrEI/PuQPwQr5BiyFKtJhsJzS611O+jsI6bP/tZPVUz2YAAA==') format('woff2'),
+  url('iconfont.woff?t=1582948618574') format('woff'),
+  url('iconfont.ttf?t=1582948618574') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1582948618574#icon_font') format('svg'); /* iOS 4.1- */
+}
+
+.icon_font {
+  font-family: "icon_font" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconchakan1:before {
+  content: "\e769";
+}
+
+.iconstrap:before {
+  content: "\e600";
+}
+
+.iconyincang:before {
+  content: "\e615";
+}
+
